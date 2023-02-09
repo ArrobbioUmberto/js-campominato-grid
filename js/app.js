@@ -25,10 +25,12 @@ btnElement.addEventListener('click', function(){
 	const cella = celleElements[i]
 
 	cella.addEventListener('click', function () {
+        cella.classList.add('color')
 		console.log(i + 1)
 	})
 }
 })
+
 
 
 

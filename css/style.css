@@ -7,3 +7,8 @@
     max-width: 990px;
     margin: 2rem;
 }
+.color{
+    background-color: cornflowerblue;
+    color: black;
+    font-style: italic;
+}
